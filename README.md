@@ -6,6 +6,7 @@ The purpose of this analysis is to check the trend in background checks on hand 
 
 ## Data wrangling process
 I imported the following libraries for this project:
+
 Pandas
 
 Numpy
